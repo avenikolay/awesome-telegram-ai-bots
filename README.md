@@ -40,6 +40,7 @@ Live AI bots on Telegram demonstrating different niches and architectures.
 - **[@midjourney_ai_bot](https://t.me/midjourney_ai_bot)** and similar — image generation bots using Midjourney / Stable Diffusion / Flux APIs.
 - **[@TranscribeBot](https://t.me/tg_transcribe_bot)** and voice transcription bots — Whisper-based transcription integrated via Telegram voice messages.
 - **Translation bots** — DeepL / Google Translate wrappers with language auto-detection from user `language_code`.
+- **[Cyber Collector](https://t.me/cybercollectorbot)** — free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 *Only production bots with sustained user bases. Abandoned or single-developer demos are excluded.*
 
